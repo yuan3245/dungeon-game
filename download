@@ -1,0 +1,26 @@
+# 編譯產物 (Compiled objects / executables)
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Code::Blocks 專案產生的暫存檔
+*.depend
+*.layout
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.pdb
+
+# macOS / Linux / Windows 系統檔
+.DS_Store
+Thumbs.db
